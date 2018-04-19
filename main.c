@@ -9,7 +9,7 @@ main ()
     scanf("%d\n%d", &a, &b);
     c=a+b; 
     d=a-b;
-    f=a*b;
-    printf("%d + %d = %d; %d - %d = %d; %d + %d = %d",a,b,c,a,b,d,a,b,f);
+    f=a/b+d;
+    printf("%d + %d = %d; %d - %d = %d; %d / %d + %d= %d",a,b,c,a,b,d,a,b,d,f);
  return 0;
 }
