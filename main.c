@@ -1,5 +1,5 @@
 ﻿#include <stdio.h>
-
+//bla bla
 int
 main ()
 {
@@ -9,5 +9,5 @@ main ()
     c=a+b; 
     d=a-b;
     printf("%d + %d = %d; %d - %d = %d",a,b,c,a,b,d);
-  return 0;
+ return 0;
 }
