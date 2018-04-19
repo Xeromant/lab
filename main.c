@@ -1,6 +1,6 @@
 ﻿#include <stdio.h>
 //bla bla
-// new comment
+// new comment2
 int
 main ()
 {
